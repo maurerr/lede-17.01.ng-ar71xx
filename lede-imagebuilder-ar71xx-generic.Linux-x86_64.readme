@@ -1,0 +1,2 @@
+#to unsplit the imagebuilder
+cat lede-imagebuilder-ar71xx-generic.Linux-x86_64.tar.xz.part*  > lede-imagebuilder-ar71xx-generic.Linux-x86_64.tar.xz
